@@ -1,4 +1,4 @@
-# hostOnNetwor-SSH
+# hostOnNetwor-SSH-(PowerShell,Python)
 Check host on your network and SSH enabled machines 
 
 This PowerShell and Python script accomplish the same mission. They both check your local network (/24) and ping all hosts in it, after hosts are recognized (stored in array (PowerShell), stored in list (Python)), we will check if port 22 is open.
